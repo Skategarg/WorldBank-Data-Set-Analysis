@@ -1,4 +1,4 @@
-1. WorldBank Dataset Analysis
+1. Analysis of WorldBank Dataset
 2. I analyzed a dataset that was provided to me regarding countries and their factors, such as literacy rates and education quality.
 3. This project matters because underserved countries may not be represeted in typical data. This dataset combats this by ensuring that regions such as Southern and Eastern Africa are adequately represented. My findings could answer certain questions that people might have about the literacy rate and education factors that affect areas around the world.
 4. The variables that I used included the year and the countries/regions of the places that I analyzed as well as the values of the factors that I analyzed, as can be seen in the graphs attached.
